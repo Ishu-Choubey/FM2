@@ -19,7 +19,7 @@ Irrigation management is a complex decision-making process that determines when 
 - It is very easy to design and implement
 
 ## 🔖 Working of Smart Irrigation System
-The Arduino is connected to the NodeMcu. The NodeMcu will get a message from the farmer instructing him to turn on the motor. The NodeMcu then sends this message as a signal to the Arduino board, which will switch on the servo motors and the starter button on the board, which will start the pump, and so our smart irrigation system will begin to give water to crops.
+The Arduino is connected to the NodeMcu. The NodeMcu will get a message from the farmer instructing him to turn on the motor. The NodeMcu then sends this message as a signal to the Esp8266 board, which will switch on the servo motors and the starter button on the board, which will start the pump, and so our smart irrigation system will begin to give water to crops.
 When it comes to turning off the motor, the technique is the same. This time, the farmer will send a message to switch off the motor, and the relay output will be set to LOW, causing the water pump to shut off.
 
 ## 💫Tech Stack
