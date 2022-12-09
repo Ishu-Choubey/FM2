@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "973632385541",
+    "project_id": "itsfm2",
+    "storage_bucket": "itsfm2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973632385541:android:9d08ec48bc63218a66e26c",
+        "android_client_info": {
+          "package_name": "com.example.fm2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973632385541-t6id8cnb8fddnrqmlli3n7rhfi4cihsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn-4YGnAv8reRVL8Is_geB9Cvd6ztdLBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973632385541-t6id8cnb8fddnrqmlli3n7rhfi4cihsd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
