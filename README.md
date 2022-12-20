@@ -1,4 +1,16 @@
-# FM2.0
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/Ishu-Choubey/FM2/blob/main/FM2.0%20logo.png" alt="Logo" width="355.630965006" height="160">
+ <h2 align="center">FM2.0</h2><br>
 ## 📄 Abstract
 India is mostly an agricultural nation. Agriculture is the primary source of income for the majority of Indian families. Agriculture accounts for around 16% of the overall GDP and 10% of total exports in India. Profitability in production farming is dependent on making the proper and timely operational choice based on current conditions and previous records. Controlling and monitoring machines remotely has become an interesting subject of study for all researchers in recent years.
 The problems faced by Indian farmers inspired the idea of this project. It turns out that the grain fields are usually far from the farmer's home. Farmers have to travel long distances to reach their fields. Irrigation is an important part of agriculture. As you know, this has to be done every day, so farmers have to visit their fields every day to turn on the irrigation system and water their crops, regardless of the distance between them. This daily trip to the grain fields has some drawbacks. It wastes time, money, and most of all energy. Irrigation may be omitted due to the carelessness of farmers. For this reason we came up with an automated irrigation system which is a computerized method of watering the farm that saves labor and time over manual watering, hence we chose to work online rather than travelling. In this article, we have come up with an automated irrigation system using a NodeMCU, ESP8266 Wifi module, servo motors, and an Arduino IDE. The irrigation can be monitored and handled via an Android application which will be installed on the smartphones of the farmers. The data pertaining to the crop irrigation will be stored and fetched from Google Firebase Cloud Service.
